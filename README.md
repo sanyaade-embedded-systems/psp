@@ -2,16 +2,19 @@
 PHPoC source codes for basic libraries and examples
 
 ## Libraries
+* sc\_envs.php
+* sc\_envu.php
 * sd\_101.php
 * sd\_104.php
 * sd\_204.php
-* sn\_340.php
+* sd\_340.php
+* sd\_spc.php
 * sn\_dns.php
-* sn\_smtp.php
 * sn\_esmtp.php
+* sn\_mysql.php
+* sn\_smtp.php
 * sn\_tcp\_ac.php
 * sn\_tcp\_ws.php
-* sn\_mysql.php
 
 ## Examples
 ### net
@@ -25,7 +28,7 @@ PHPoC source codes for basic libraries and examples
 * tcp0\_echo\_ac
 * tcpn\_echo\_ac
 
-#### 2. html\_task
+#### 2. html\_text
 * setup
 
 ### p4s
@@ -40,7 +43,7 @@ PHPoC source codes for basic libraries and examples
 * ht\_pwm\_servo
 * ht\_ultrasonic
 
-#### 2. html\_task
+#### 2. html\_text
 * hello
 * uio\_buzzer
 * uio\_ob\_led
@@ -81,7 +84,7 @@ PHPoC source codes for basic libraries and examples
 * 104
 * 204
 
-#### 2. html\_task
+#### 2. html\_text
 * 204
 
 ## References
